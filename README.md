@@ -24,3 +24,12 @@ The goal is to explore player efficiency, compare performance across positions, 
 - Jupyter Notebook
 
 ## 📁 Project Structure
+mlb-batting-analysis-2022/
+├── data/
+├── notebooks/
+├── visuals/
+├── README.md
+└── requirements.txt
+
+## 🚀 Status
+Project setup completed. Data analysis in progress.
